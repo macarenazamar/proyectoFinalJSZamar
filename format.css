@@ -1,0 +1,35 @@
+*{
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #85a1a8;
+}
+
+h1{
+    margin: 15vh;
+    color: rgb(70, 88, 88);
+    font-family: 'Josefin Sans', sans-serif;
+}
+select{
+    margin: 2rem;
+    padding: 1rem;
+    background-color: #4E6368;
+    color: rgb(202, 231, 231);
+    font-family: 'Josefin Sans', sans-serif;
+}
+button{
+    padding: 1rem;
+    background-color: #3bbddd;
+    font-family: 'Josefin Sans', sans-serif;
+}
+button:hover{
+    background-color: rgb(11, 241, 234);
+}
+ul{
+    margin: 5vh;
+    color: rgb(202, 231, 231); 
+    font-family: 'Josefin Sans', sans-serif;   
+}
